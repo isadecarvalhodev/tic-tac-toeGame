@@ -8,15 +8,30 @@ function App() {
 
   const [board, setBoard] = useState(Array(9).fill(null));
 
-  const handBoxClick = (box)
+  const handBoxClick = (boxIdx) => {
+    const updatedBoard = board.map((value, idx) => {
+      if(idx === boxIdx) {
+        return "X";
+
+      } else {
+        return value;
+
+      }
+    })
+  setBoard(updatedBoard);
+  
+}
 
 
-  return (
+
+
+
+    return (
     <div className="App">
-      <Board board={board} onClick={null} /> 
+      <Board board={board} onClick={handBoxClick} /> 
 
     </div>
-  );
+    )
 }
 
 export default App;
