@@ -33,6 +33,10 @@ function App() {
 
       }
     })
+
+
+    checkWinner(updatedBoard);
+    
   setBoard(updatedBoard);
 
   setXPlaying(!xPlaying);
@@ -40,6 +44,19 @@ function App() {
   
 }
 
+const checkWinner = (boar) => {
+  for(let i = 0; i < WIN_CONDITIONS.length; i++) {
+    const [x,y,z] = WIN_CONDITIONS[i];
+
+    if (board[x] && board[x] === boar[y] && board[y] === board[z] ) {
+      console.log(board[x]);
+
+      return board[x];
+
+    }
+  }
+
+}
 
 
 
