@@ -1,9 +1,11 @@
 import React from "react";
-import "./ResetButton";
+import "./ResetButton.css";
 
 
-export const ResetButton = () => {
+export const ResetButton = ({resetBoard}) => {
+
     return (
-        <div>ResetButton</div>
+
+        <button className="reset-btn" onClick={resetBoard}>Reset</button>
     )
 }

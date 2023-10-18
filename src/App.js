@@ -86,7 +86,7 @@ const resetBoard = () => {
     <div className="App">
       <ScoreBoard scores ={scores} xPlaying ={xPlaying}/> 
       <Board board={board} onClick={gameOver ? resetBoard : handBoxClick} /> 
-
+      <ResetButton resetBoard= {resetBoard} />
     </div>
     )
 }
