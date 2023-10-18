@@ -1,8 +1,7 @@
 # Tic Tac Toe Game
 
-Is the classic game of tic tac toe done in React and JavaScipt.
+The classic game of tic tac toe done in React and JavaScipt.
 
-Available here: _______________
 
 
 
