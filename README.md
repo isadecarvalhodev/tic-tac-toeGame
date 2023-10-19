@@ -2,10 +2,6 @@
 
 The classic game of tic tac toe done in React and JavaScipt.
 
-
-
-
-
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
