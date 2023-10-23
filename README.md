@@ -13,5 +13,4 @@ Please make sure to update tests as appropriate.
 
 <h2 align="center"> License </h2>
 
-
 [MIT](https://choosealicense.com/licenses/mit/)
