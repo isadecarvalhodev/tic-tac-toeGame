@@ -4,7 +4,7 @@
 The classic game of tic tac toe done in React and JavaScipt.
 
 __________________________________
-<p align="center">Contributing </p>
+<h2 align="center">Contributing </h2>
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
