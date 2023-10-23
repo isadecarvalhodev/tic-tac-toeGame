@@ -12,6 +12,6 @@ to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
 <h2 align="center"> License </h2>
-_____________________________________________________________
+________
 
 [MIT](https://choosealicense.com/licenses/mit/)
