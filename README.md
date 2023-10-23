@@ -6,7 +6,8 @@
 
 <h1 align="center"> How to play the game? </h1>
 
-![Alt text]( https://raw.githubusercontent.com/isadecarvalhodev/tic-tac-toeGame/master/tic-tac-toe-screen-shot.png)
+
+![The game:]( https://raw.githubusercontent.com/isadecarvalhodev/tic-tac-toeGame/master/tic-tac-toe-screen-shot.png)
 
 __________________________________
 <h2 align="center">Contributing </h2>
