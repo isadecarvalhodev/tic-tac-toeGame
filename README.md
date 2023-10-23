@@ -1,4 +1,4 @@
-<p align="center"> Tic Tac Toe Game</p>
+<h1 align="center">Tic Tac Toe Game</h1>
 
 
 The classic game of tic tac toe done in React and JavaScipt.
