@@ -3,7 +3,7 @@
 
 <p align="center"> The classic game of tic tac toe done in React and JavaScipt. </p>
 
-<p align="center"> Play here: <a href="https://isadecarvalhodev.github.io/tic-tac-toeGame/" target="_blank" rel="noopener noreferrer">https://isadecarvalhodev.github.io/tic-tac-toeGame/</a> </p>
+<p align="center"> Play here: href="https://isadecarvalhodev.github.io/tic-tac-toeGame/" </p>
 
 
 
