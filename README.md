@@ -5,8 +5,6 @@
 <p align="center"> Play here: https://isadecarvalhodev.github.io/tic-tac-toeGame/ </p>
 
 
-
-
 <h2 align="center"> Project Screenshot </h2>
 
 
