@@ -1,6 +1,5 @@
 <h1 align="center">Tic Tac Toe Game</h1>
 
-
 <p align="center"> The classic game of tic tac toe done in React and JavaScipt. </p>
 
 <p align="center"> Play here: https://isadecarvalhodev.github.io/tic-tac-toeGame/ </p>
