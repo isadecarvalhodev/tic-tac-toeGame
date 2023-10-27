@@ -7,7 +7,6 @@
 
 
 ![The game:]( https://raw.githubusercontent.com/isadecarvalhodev/tic-tac-toeGame/master/tic-tac-toe-screen-shot.png)
-
 __________________________________
 <h2 align="center">Contributing </h2>
 
