@@ -14,6 +14,6 @@ __________________________________
 
 <p align="center"> Please make sure to update tests as appropriate. </p>
 
-<h2 align="center"> License </h2>
+<h2 align="center">License </h2>
 
 <p align="center"> [MIT](https://choosealicense.com/licenses/mit/) </p>
